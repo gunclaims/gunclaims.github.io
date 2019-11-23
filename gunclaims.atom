@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><title>Gunclaims</title><link href="https://gunclaims.com" rel="alternate"></link><link href="/home/noah/gits/clones/gun.claims/_output/gunclaims.atom" rel="self"></link><id>https://gunclaims.com</id><updated>2019-11-22T23:59:01Z</updated><author><name>disconnector</name><email>gunclaims@gmail.com</email></author><entry><title>hello</title><link href="https://gunclaims.com/2019-11-22-hello.html" rel="alternate"></link><published>2019-11-22T23:59:01Z</published><author><name>disconnector</name><email>gunclaims@gmail.com</email></author><id>tag:gunclaims.com,2019-11-22:/2019-11-22-hello.html/</id><summary type="html">&lt;p&gt;blah&lt;/p&gt;
-&lt;!--
-vim: ft=markdown
---&gt;...</summary></entry><entry><title>Test</title><link href="https://gunclaims.com/2018-11-20-1911.html" rel="alternate"></link><published>2019-11-22T22:18:01Z</published><author><name>disconnector</name><email>gunclaims@gmail.com</email></author><id>tag:gunclaims.com,2019-11-22:/2018-11-20-1911.html/</id><summary type="html">&lt;p&gt;Test&lt;/p&gt;
-&lt;!--
-vim: ft=markdown
---&gt;...</summary></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><title>GunClaims</title><link href="https://gunclaims.com" rel="alternate"></link><link href="/home/noah/gits/clones/gun.claims/_output/gunclaims.atom" rel="self"></link><id>https://gunclaims.com</id><updated>2019-11-23T00:33:48Z</updated><author><name>disconnector</name><email>gunclaims@gmail.com</email></author><entry><title>Never Buy a Beretta D Spring</title><link href="https://gunclaims.com/2019-11-23-never-buy-a-beretta-d-spring.html" rel="alternate"></link><published>2019-11-23T00:33:48Z</published><author><name>disconnector</name><email>gunclaims@gmail.com</email></author><id>tag:gunclaims.com,2019-11-23:/2019-11-23-never-buy-a-beretta-d-spring.html/</id><summary type="html">&lt;p&gt;&lt;img class='materialbox' width=800 src=https://i.imgur.com/zLrvbQG.jpg?2&gt;&lt;/p&gt;
+&lt;p&gt;There is a tendency for those in the firearms community (aka "gun
+community", aka "second amendment community", etc) to adopt certain
+sacred cows.&lt;/p&gt;
+&lt;p&gt;One such sac...</summary></entry></feed>
